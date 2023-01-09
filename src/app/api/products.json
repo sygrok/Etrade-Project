@@ -20,6 +20,90 @@
             "name": "xiaomi redmi note 10",
             "price": "100000",
             "image": "https://productimages.hepsiburada.net/s/64/500/110000005722882.jpg"
+        },
+        {
+            "id": 1,
+            "category": "phones",
+            "name": "samsung galaxy A10",
+            "price": "10000",
+            "image": "https://cdn.akakce.com/z/samsung/samsung-galaxy-a10-32-gb.jpg"
+        },
+        {
+            "id": 2,
+            "category": "phones",
+            "name": "iphone 13 promax",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/189/500/110000155170720.jpg"
+        },
+        {
+            "id": 3,
+            "category": "phones",
+            "name": "xiaomi redmi note 10",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/64/500/110000005722882.jpg"
+        },
+        {
+            "id": 1,
+            "category": "phones",
+            "name": "samsung galaxy A10",
+            "price": "10000",
+            "image": "https://cdn.akakce.com/z/samsung/samsung-galaxy-a10-32-gb.jpg"
+        },
+        {
+            "id": 2,
+            "category": "phones",
+            "name": "iphone 13 promax",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/189/500/110000155170720.jpg"
+        },
+        {
+            "id": 3,
+            "category": "phones",
+            "name": "xiaomi redmi note 10",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/64/500/110000005722882.jpg"
+        },
+        {
+            "id": 1,
+            "category": "phones",
+            "name": "samsung galaxy A10",
+            "price": "10000",
+            "image": "https://cdn.akakce.com/z/samsung/samsung-galaxy-a10-32-gb.jpg"
+        },
+        {
+            "id": 2,
+            "category": "phones",
+            "name": "iphone 13 promax",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/189/500/110000155170720.jpg"
+        },
+        {
+            "id": 3,
+            "category": "phones",
+            "name": "xiaomi redmi note 10",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/64/500/110000005722882.jpg"
+        },
+        {
+            "id": 1,
+            "category": "phones",
+            "name": "samsung galaxy A10",
+            "price": "10000",
+            "image": "https://cdn.akakce.com/z/samsung/samsung-galaxy-a10-32-gb.jpg"
+        },
+        {
+            "id": 2,
+            "category": "phones",
+            "name": "iphone 13 promax",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/189/500/110000155170720.jpg"
+        },
+        {
+            "id": 3,
+            "category": "phones",
+            "name": "xiaomi redmi note 10",
+            "price": "100000",
+            "image": "https://productimages.hepsiburada.net/s/64/500/110000005722882.jpg"
         }
     ]
 }

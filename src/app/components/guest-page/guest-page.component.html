@@ -1,5 +1,6 @@
-<div *ngFor="let product of products">
-  <div class="card" style="width: 18rem">
+<div class="container">
+<div class="kutu" >
+  <div class="card" style="width: 18rem" *ngFor="let product of products">
     <img class="card-img-top" src="{{ product.image }}" alt="Card image cap" />
     <div class="card-body">
       <h5 class="card-title">{{ product.name }}</h5>
@@ -9,4 +10,5 @@
       <a href="#" class="btn btn-primary">Detaylar</a>
     </div>
   </div>
+</div>
 </div>
