@@ -8,6 +8,7 @@ import { RegisterPageComponent } from './components/register-page/register-page.
 import { GuestNavbarComponent } from './layouts/guest-navbar/guest-navbar.component';
 import { FilterPipe } from './pipes/filter.pipe';
 import { HttpClientModule } from '@angular/common/http';
+
 @NgModule({
   declarations: [
     AppComponent,
