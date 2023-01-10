@@ -1,0 +1,52 @@
+.topside {
+    width: 100%;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+nav {
+    border-bottom: 0.5px black solid;
+}
+
+
+
+.logo {
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 450px;
+    height: 100px;
+}
+
+ul {
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+ul li a {
+    display: block;
+    text-decoration: none;
+}
+
+li {
+    display: block;
+    text-align: center;
+    padding: auto;
+    margin: auto;
+    font-size: 1.4rem;
+    border: 1px solid black;
+}
+
+a:hover {
+    background-color: brown;
+}
+
+input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    width: 450px;
+    border: 1px solid black;
+}
