@@ -7,6 +7,8 @@
 
 nav {
     border-bottom: 0.5px black solid;
+    grid-template-columns: 1fr;
+    display: grid;
 }
 
 
@@ -24,9 +26,10 @@ ul {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-ul li a {
+.topbut a {
     display: block;
     text-decoration: none;
+    color: black;
 }
 
 li {
@@ -35,11 +38,10 @@ li {
     padding: auto;
     margin: auto;
     font-size: 1.4rem;
-    border: 1px solid black;
 }
 
-a:hover {
-    background-color: brown;
+.topbut a:hover {
+    color: brown;
 }
 
 input[type=text] {
@@ -49,4 +51,23 @@ input[type=text] {
     border: none;
     width: 450px;
     border: 1px solid black;
+}
+
+.catgrid {
+    margin-top: 25px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.bottomside {
+    background-color: orange;
+}
+
+.catgrid a {
+    color: white;
+    text-decoration: none;
+}
+
+.catgrid a:hover {
+    color: red;
 }
